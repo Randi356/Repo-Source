@@ -99,6 +99,27 @@ BOT_TOKEN : # botfather token api
 BOT_USERNAME : # @usernamebot
 UPSTREAM_REPO_BRANCH : Vegeta-Userbot
 ```
+# 4. Catuserbot 🐱
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Randi356/Repo-source/Master/.image/catuserbot.jpg" width="500" height="350">
+</p>
+
+# REPO
+GET LINK [CATUSERBOT](https://github.com/TgCatUB/catuserbot)
+
+# Heroku config vars
+```
+ALIVE_NAME : # name
+APP_ID : # get link my.telegram.org or @VegetaApiBot
+API_HASH : # get link my.telegram.org or @VegetaApiBot
+STRING_SESSION : # get string telethon @VegetaSessionBot
+TG_BOT_TOKEN : get bot token api @Botfather
+COMMAND_HAND_LER : . # custom handler
+ENV : ANYTHING # Don't change here
+TZ : Asia/Jakarta # indonesian
+UPSTREAM_REPO : goodcat
+```
 
 
 # Credits
@@ -109,3 +130,5 @@ Vegeta-Userbot [Rendy](https://github.com/Randi356) code
 Userge Team [Userge](https://github.com/UsergeTeam/Userge) dev
 
 Team Ultroid [Ultroid](https://github.com/TeamUltroid/Ultroid) dev
+
+TgCatUB [Catuserbot](https://github.com/TgCatUB/catuserbot) dev
