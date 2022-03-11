@@ -106,6 +106,6 @@ UPSTREAM_REPO_BRANCH : Vegeta-Userbot
 
 Vegeta-Userbot [Rendy](https://github.com/Randi356) code
 
-Team Userge [Userge](https://github.com/TeamUserge/userge) dev
+Userge Team [Userge](https://github.com/UsergeTeam/Userge) dev
 
 Team Ultroid [Ultroid](https://github.com/TeamUltroid/Ultroid) dev
