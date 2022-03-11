@@ -8,7 +8,7 @@
 
 # REPO
 
-GET LINK [REPO USERGE](https://github.com/TeamUserge/userge)
+GET LINK [REPO USERGE](https://github.com/UsergeTeam/Userge)
 
 # Heroku Config Vars
 
